@@ -1,2 +1,2 @@
 # Gretel
-wookee, rany, yeondoo
+wookee, rany, pingakim
